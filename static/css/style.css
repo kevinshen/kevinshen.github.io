@@ -1,0 +1,34 @@
+@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,900");
+
+	body{
+		color: black;
+		font-family: 'Source Sans Pro', sans-serif;
+		font-size: 15pt;
+		font-weight: 300 !important;
+		letter-spacing: -0.025em;
+		line-height: 1.75em;
+	}
+
+	body {
+		background: white;
+	}
+
+	a {
+		border-bottom: dotted 1px;
+		color: inherit;
+		outline: 0;
+		text-decoration: none;
+	}
+
+		a:hover {
+			border-color: transparent;
+		}
+
+
+	#main {
+		height: 100%;
+		left: 0;
+		text-align: center;
+		top: 0;
+		width: 100%;
+	}
