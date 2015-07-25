@@ -36,16 +36,6 @@ a {
 		text-transform: none !important;
 	}
 
-#bg {
-	background: #348cb2 url("../img/nyc.jpg") bottom left;
-	height: 100%;
-	left: 0;
-	position: fixed;
-	background-size: cover;
-	width: 100%;
-	top: 0;
-}
-
 #main {
 	height: 100%;
 	left: 0;
