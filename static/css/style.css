@@ -37,7 +37,7 @@ a {
 	}
 
 #bg {
-	background: #4099FF;
+	background: #348CB2;
 	height: 100%;
 	left: 0;
 	position: fixed;
@@ -71,7 +71,7 @@ img#headshot {
     -moz-border-radius: 50%;
     width:15%;
     height: 20%;
-    border:1.5px solid #FFFFFF
+    border:2px solid #FFFFFF
 }
 
 #header {
